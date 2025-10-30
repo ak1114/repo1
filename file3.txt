@@ -1,0 +1,6 @@
+hello -master branch change
+<<<<<<< Updated upstream
+hii
+=======
+hello everyone
+>>>>>>> Stashed changes
